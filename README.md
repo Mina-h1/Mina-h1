@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mina Hany</h1>
 --
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **mina.hany.t@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
