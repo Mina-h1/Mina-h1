@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mina Hany</h1>
   
-- #### 📫 How to reach me **mina.hany.t@gmail.com**
+- 🔭 I’m currently working on **Buckoid Android App**
+
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
   ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
