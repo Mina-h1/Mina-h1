@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mina Hany</h1>
-  
-- 🔭 I’m currently working on **Buckoid Android App**
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Android , MEARN**
+--
 
 - 📫 How to reach me **rishavchanda0@gmail.com**
 
