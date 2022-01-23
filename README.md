@@ -12,5 +12,5 @@
 <a href="https://www.linkedin.com/in/minahany/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="minahany1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mina.hany.t/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mina.hany.t" height="30" width="40" /></a>
   ---
-<!--<h3 align="left">Languages and Tools:</h3>
-href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
