@@ -10,7 +10,7 @@
 <p align = "center">
   
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white%22&color=black" />](https://www.instagram.com/mina.hany.t/)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22&color=black" />](https://www.linkedin.com/in/minahany/)  
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22&color=black" />](https://www.linkedin.com/in/minahany/) [<img src ="https://img.shields.io/badge/Facebook-%2312100.svg?&style=for-the-badge&logo=Facebook&logoColor=white%22&color=black">](https://www.facebook.com/mina.hany.293)
 [<img src ="https://img.shields.io/badge/Facebook-%2312100.svg?&style=for-the-badge&logo=Facebook&logoColor=white%22&color=black">](https://www.facebook.com/mina.hany.293)
 ---
 <h3 align="left">Languages and Tools:</h3>
